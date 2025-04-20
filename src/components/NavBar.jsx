@@ -15,7 +15,7 @@ const Navbar = () => {
           <Link to="/">
             <img src={reactLogo} />
           </Link>
-          React : Todo List with tiw
+          React : Todo List with tiw version2
         </div>
         <ul className="hidden md:flex gap-8">
           <li>
